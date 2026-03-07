@@ -12,14 +12,14 @@
 
 | 分类 | 上游数量 | 已翻译 | 覆盖率 |
 |------|----------|--------|--------|
-| design | 7 | 3 | 43% |
-| engineering | 7 | 7 | 100% |
-| marketing | 11 | 2 | 18% |
+| design | 7 | 7 | 100% |
+| engineering | 8 | 8 | 100% |
+| marketing | 11 | 11 | 100% |
 | product | 3 | 3 | 100% |
-| project-management | 5 | 0 | 0% |
-| spatial-computing | 6 | 0 | 0% |
-| specialized | 7 | 1 | 14% |
-| strategy | 16 | 0 | 0% |
+| project-management | 5 | 5 | 100% |
+| spatial-computing | 6 | 6 | 100% |
+| specialized | 7 | 7 | 100% |
+| strategy | 16 | 16 | 100% |
 | support | 6 | 6 | 100% |
 | testing | 8 | 8 | 100% |
 
@@ -35,5 +35,5 @@
 ## 同步说明
 
 - 跟踪上游 `main` 分支
-- 新增的上游智能体会逐步翻译，优先翻译使用频率高的
+- 新增的上游智能体会逐步翻译
 - 上游如果有大的结构调整（目录重命名等），一周内同步
